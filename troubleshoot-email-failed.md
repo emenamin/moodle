@@ -1,5 +1,5 @@
 ### Prompt:
-saya kembangkan moodle di localhost. saya aktifkan fitur sign up via email. jadi perlu aktifkan email-based self-registration. fitur sign up sudah muncul di front end. namun ketika saya coba sign up, muncul pesan Tried to send you an email but failed! kenapa?
+saya kembangkan moodle di localhost. saya aktifkan fitur sign up via email. jadi perlu aktifkan email-based self-registration. fitur sign up sudah muncul di front end. namun ketika saya coba sign up, muncul pesan _Tried to send you an email but failed!_ kenapa?
 
 ### Solusi:
 
