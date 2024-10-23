@@ -1,4 +1,4 @@
-How to Create a New Account on Moodle
+## How to Create a New Account on Moodle
 
 1. Click **Login** on the main page, then select Create new account or Sign up.
 2. Fill out the Registration Form. Enter:
